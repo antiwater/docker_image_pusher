@@ -6,4 +6,4 @@
 #haroldli/xiaoya-tvbox:latest
 #ubuntu:latest
 #jupyter/datascience-notebook
-sequenceiq/hadoop-docker:2.6.0
+sequenceiq/hadoop-docker:2.6.0-dce
