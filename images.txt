@@ -1,4 +1,4 @@
-nginx
+#nginx
 #支持私库
 #xhofe/alist:latest
 #支持指定架构
@@ -7,3 +7,4 @@ nginx
 #ubuntu:latest
 #jupyter/datascience-notebook
 #sequenceiq/hadoop-docker:2.6.0-dce
+sequenceiq/hadoop-docker:2.6.0
