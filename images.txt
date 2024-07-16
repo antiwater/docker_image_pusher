@@ -9,4 +9,4 @@
 #phpipam/phpipam-www:latest
 #phpipam/phpipam-cron:latest
 #mariadb:latest
-google_containers
+kubeadm.k8s.io/google_containers
