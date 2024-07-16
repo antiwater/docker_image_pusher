@@ -6,6 +6,7 @@
 #haroldli/xiaoya-tvbox:latest
 #jupyter/datascience-notebook
 #apache/hadoop:2.10.2
-phpipam/phpipam-www:latest
-phpipam/phpipam-cron:latest
-mariadb:latest
+#phpipam/phpipam-www:latest
+#phpipam/phpipam-cron:latest
+#mariadb:latest
+google_containers
