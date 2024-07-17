@@ -9,4 +9,5 @@
 #phpipam/phpipam-www:latest
 #phpipam/phpipam-cron:latest
 #mariadb:latest
-calico/cni:v3.27.4
+#calico/cni:v3.27.4
+calico/node:v3.27.4
