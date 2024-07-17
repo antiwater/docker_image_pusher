@@ -9,4 +9,4 @@
 #phpipam/phpipam-www:latest
 #phpipam/phpipam-cron:latest
 #mariadb:latest
-kubeadm.k8s.io/google_containers
+calico/cni:v3.27.4
