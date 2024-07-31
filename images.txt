@@ -12,4 +12,5 @@
 #calico/cni:v3.27.4
 #calico/node:v3.27.4
 #calico/kube-controllers:v3.27.4
-rancher/rancher:v2.9.0-rc6-amd64
+#rancher/rancher:v2.9.0-rc6-amd64
+rancher/rancher-agent:v2.9.0-rc6-amd64
