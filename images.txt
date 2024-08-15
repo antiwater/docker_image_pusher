@@ -16,4 +16,5 @@
 #rancher/rancher-agent:v2.9.0-rc6-amd64
 #rancher/shell:v0.2.1-amd64
 #rancher/rancher-webhook:v0.5.0
-busybox:latest
+#busybox:latest
+registry.k8s.io/metrics-server/metrics-server:v0.7.1
