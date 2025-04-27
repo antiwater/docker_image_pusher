@@ -22,3 +22,4 @@
 phpipam/phpipam-cron:latest
 phpipam/phpipam-www:latest
 mariadb:latest
+stirlingtools/stirling-pdf
